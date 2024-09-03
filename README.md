@@ -1,4 +1,4 @@
-# Heart-Disease-Analysis-and-Prediction
+# Heart Disease Analysis and Prediction
 This project analyzes and cleans data from the UCI Heart Disease repository, using 14 key attributes to uncover patterns. It then builds machine learning models to predict heart disease likelihood and classify its severity (1-4). The goal is to aid early diagnosis and deepen understanding of heart disease.
 
 # About the Data
@@ -40,9 +40,9 @@ This is a multivariate type of dataset which means providing or involving a vari
 
 **num**: the predicted attribute
 
-# Analysis Insights
+# Analysis Insights 📊
 
-# Model Performances
+# Model Performances 📈
 
 The performance evaluation across multiple models—Logistic Regression, Random Forest, XGBoost, Naive Bayes, and Support Vector Machine (SVM)—reveals varied outcomes when dealing with this dataset.
 
